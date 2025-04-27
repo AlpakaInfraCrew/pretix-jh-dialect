@@ -11,6 +11,7 @@ de_Informal Übersetzung nachgezogen werden.
 
 
 
+
 Usage
 =====
 
@@ -27,5 +28,3 @@ Eintrag in der pretix.cfg:
 Diese Repository muss in dem Pfad zu finden sein.
 Sprachen in diesem Pfad werden den internen bevorzugt.
 
-
-Die .po Dateien sind mit msgfmt in .mo Dateien zu übersetzen.
