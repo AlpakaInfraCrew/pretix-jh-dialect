@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-27 19:30+0000\n"
-"PO-Revision-Date: 2025-04-27 19:43+0200\n"
+"PO-Revision-Date: 2025-04-27 20:04+0200\n"
 "Last-Translator: Thies Mueller <thies@jugendhackt.org>\n"
 "Language-Team: German (Jugend hackt) <https://anmeldung.alpaka.space/>pretix/"
-"pretix/de_jugendhackt/>\n"
+"de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +25,7 @@ msgstr "Englisch"
 
 #: pretix/_base_settings.py:88
 msgid "German"
-msgstr "Deutsch"
+msgstr "Deutsch (Jugend hackt)"
 
 #: pretix/_base_settings.py:89
 msgid "German (informal)"
